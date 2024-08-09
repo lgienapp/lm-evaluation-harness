@@ -1,5 +1,0 @@
-"include": "_default_arcx_template_yaml"
-"task": "ogx_arcx_challenge_lt"
-"dataset_name": "challenge_LT"
-"doc_to_text": "Klausimas: {{question}}\nAtsakymas:"
-"doc_to_decontamination_query": "Klausimas: {{question}}\nAtsakymas:"

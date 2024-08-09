@@ -1,5 +1,0 @@
-"include": "_default_arcx_template_yaml"
-"task": "ogx_arcx_easy_et"
-"dataset_name": "easy_ET"
-"doc_to_text": "Küsimus: {{question}}\nVastus:"
-"doc_to_decontamination_query": "Küsimus: {{question}}\nVastus:"

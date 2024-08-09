@@ -12,9 +12,8 @@ doc_to_text: "F: Wie hoch ist die Lebenserwartung der Menschen in den Vereinigte
   \ ausgetragen.\n\nF: {{question}}\nA:"
 group:
 - truthfulqax
-dataset_path: openGPT-X/truthfulqax
+dataset_path: LeoLM/TruthfulQA_de
 output_type: generate_until
-training_split: null
 validation_split: validation
 test_split: null
 num_fewshot: 0

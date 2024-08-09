@@ -1,9 +1,8 @@
 group:
   - ai2_arc
   - arcx
-dataset_path: openGPT-X/arcx
+dataset_path: LeoLM/ArcChallenge_de
 output_type: multiple_choice
-training_split: train
 validation_split: validation
 test_split: test
 doc_to_target: "{{choices.label.index(answerKey)}}"

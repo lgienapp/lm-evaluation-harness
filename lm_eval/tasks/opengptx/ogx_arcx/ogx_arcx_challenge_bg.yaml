@@ -1,5 +1,0 @@
-"include": "_default_arcx_template_yaml"
-"task": "ogx_arcx_challenge_bg"
-"dataset_name": "challenge_BG"
-"doc_to_text": "Въпрос: {{question}}\nОтговор:"
-"doc_to_decontamination_query": "Въпрос: {{question}}\nОтговор:"

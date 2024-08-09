@@ -1,11 +1,9 @@
 group:
   - math_word_problems
   - gsm8kx
-dataset_path: openGPT-X/gsm8kx
+dataset_path: seedboxai/gsm8k_de
 output_type: generate_until
-training_split: train
-fewshot_split: train
-test_split: test
+test_split: train
 doc_to_target: "{{answer}}"
 process_results: !function utils.process_results
 metric_list:
